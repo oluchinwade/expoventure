@@ -53,7 +53,7 @@ ExpoVentures is an e-commerce application that allows users to explore and purch
 ExpoVentures follows the standard Django project structure. Key directories include:
 
 - `expoventures/`: Main project directory.
-- `yourapp/`: Django app directory containing models, views, and templates.
+- `mainapp/`: Django app directory containing models, views, and templates.
 - `templates/`: HTML templates for rendering views.
 - `static/`: Static files such as CSS, JavaScript, and images.
 

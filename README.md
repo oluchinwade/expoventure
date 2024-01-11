@@ -33,7 +33,7 @@ ExpoVentures is an e-commerce application that allows users to explore and purch
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/expoventures.git
+    git clone https://github.com/oluchinwade/expoventure.git
     ```
 
 2. Install Python dependencies:
